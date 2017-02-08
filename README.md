@@ -76,4 +76,4 @@ As the user enters some value in input box in Component-2 it will be reflected i
 4. [Relay](https://facebook.github.io/relay/)
 
 ## License
-MIT
+[MIT](https://opensource.org/licenses/MIT)
